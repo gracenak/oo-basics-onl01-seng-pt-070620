@@ -9,16 +9,8 @@ class Shoe
    puts "Your shoe is as good as new!"
  end 
 
- 
- end
+end
   
   
-  
-  
-  
-  
-  
-  
-end  
   
 # Make your shoe class here!
