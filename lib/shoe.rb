@@ -12,6 +12,7 @@ class Shoe
 end
 
 cobble = condition.new
+end
   
   
   
